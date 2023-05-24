@@ -1,0 +1,4 @@
+classes=20
+train=/home/sangjun/voc/train.txt
+valid=/home/sangjun/voc/2007_test.txt
+names=/home/sangjun/voc/voc_classes.txt
